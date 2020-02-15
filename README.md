@@ -1,7 +1,16 @@
-These are Xcode templates for Clean Swift agents basd on Raymond Law's.
+# Clean Swift Xcode Templates
 
-Templates are adapted to how I personally like it.
+These are Xcode templates for Clean Swift agents based on Raymond Law's ones available [here](https://clean-swift.com/)
+
+# Whats different
+
+* Removed file header license comment section
+* Removed everything IB. Targeted to developers who do UI from code
+* Style changed to comply with [Wenderlich style guide](https://github.com/raywenderlich/swift-style-guide)
+* Creates only VC, P, I, R
+* Used minimalist approach - no stub template functions and data passing protocols 
   
+# Installation
 
 To install the Clean Swift Xcode templates, run:
 
